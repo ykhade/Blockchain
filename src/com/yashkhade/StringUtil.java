@@ -3,6 +3,8 @@ package com.yashkhade;
 import java.security.MessageDigest;
 
 
+
+
 public class StringUtil {
     /* Applies Sha256 to string and returns a has. */
     public static String applySha256(String input) {
@@ -21,4 +23,5 @@ public class StringUtil {
             throw new RuntimeException(e);
         }
     }
+
 }

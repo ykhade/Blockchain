@@ -27,6 +27,7 @@ A simple approach to blockchain. A literal chain of blocks. It represents a sequ
 > 717242af079ccb7dd44c3f016936a81cf8ab2d4c1901243f30cbb7daa2060a0d
 
 > Block:
+>
 > Id: 3
 > Timestamp: 1539810682558
 > Hash of the previous block: 

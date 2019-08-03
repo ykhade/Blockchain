@@ -3,11 +3,17 @@ A simple approach to blockchain. A literal chain of blocks. It represents a sequ
 
 
 ``Block:``
+
 ``Id: 1``
+
 ``Timestamp: 1539810682545``
+
 ``Hash of the previous block: ``
+
 ``0``
+
 ``Hash of the block: ``
+
 ``796f0a5106c0e114cef3ee14b5d040ecf331dbf1281cef5a7b43976f5715160d``
 
 

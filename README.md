@@ -4,26 +4,26 @@ A simple approach to blockchain. A literal chain of blocks. It represents a sequ
 
 > Block:
 > Id: 1
-Timestamp: 1539810682545
-Hash of the previous block: 
-0
-Hash of the block: 
-796f0a5106c0e114cef3ee14b5d040ecf331dbf1281cef5a7b43976f5715160d
+> Timestamp: 1539810682545
+> Hash of the previous block: 
+> 0
+> Hash of the block: 
+> 796f0a5106c0e114cef3ee14b5d040ecf331dbf1281cef5a7b43976f5715160d
 
-Block:
-Id: 2
-Timestamp: 1539810682557
-Hash of the previous block: 
-796f0a5106c0e114cef3ee14b5d040ecf331dbf1281cef5a7b43976f5715160d
-Hash of the block: 
-717242af079ccb7dd44c3f016936a81cf8ab2d4c1901243f30cbb7daa2060a0d
+> Block:
+> Id: 2
+> Timestamp: 1539810682557
+> Hash of the previous block: 
+> 796f0a5106c0e114cef3ee14b5d040ecf331dbf1281cef5a7b43976f5715160d
+> Hash of the block: 
+> 717242af079ccb7dd44c3f016936a81cf8ab2d4c1901243f30cbb7daa2060a0d
 
-Block:
-Id: 3
-Timestamp: 1539810682558
-Hash of the previous block: 
-717242af079ccb7dd44c3f016936a81cf8ab2d4c1901243f30cbb7daa2060a0d
-Hash of the block: 
+> Block:
+> Id: 3
+> Timestamp: 1539810682558
+> Hash of the previous block: 
+> 717242af079ccb7dd44c3f016936a81cf8ab2d4c1901243f30cbb7daa2060a0d
+> Hash of the block: 
 > 28a2269bb34abd01dee9cea03400345bc9ea7322d73d3263221a47c6d970404f
 
 ## Getting Started
